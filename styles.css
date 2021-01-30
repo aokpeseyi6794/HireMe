@@ -1,0 +1,26 @@
+body {
+    background-color:red;
+}
+
+.funny {
+    font-family:'Chewy', cursive;
+}
+h1 {
+    font-family: 'Anton', sans-serif;
+}
+h2 {
+    font-family: 'Knewave', cursive;
+}
+li {
+    font-family: 'Permanent Marker', cursive;
+}
+h1 {
+    color:#877b41;
+}
+h2 {
+    color:#756c6c;
+}
+       p {
+           font-family: 'Permanent Marker', cursive;
+
+}
